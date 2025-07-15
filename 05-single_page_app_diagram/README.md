@@ -1,5 +1,1 @@
-Client sends requests to Server
-Server returns Html 
-Client displays content
-Server dynamically updates content
-No refresh or requests are made
+![Mermaid Diagram](https://mermaidviewer.com/api/diagrams/PgBU7hB4HDUGgAzW3gPzQ/image)
